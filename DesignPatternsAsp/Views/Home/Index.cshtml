@@ -1,0 +1,12 @@
+﻿@using DesingPatterns.Models.Data;
+@model IEnumerable<Beer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (var item in Model)
+{
+    <div>
+        <h4>@item.Name</h4>
+    </div>
+}

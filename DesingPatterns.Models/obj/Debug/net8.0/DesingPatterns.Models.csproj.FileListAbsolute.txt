@@ -1,0 +1,14 @@
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\bin\Debug\net8.0\DesingPatterns.Models.deps.json
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\bin\Debug\net8.0\DesingPatterns.Models.runtimeconfig.json
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\bin\Debug\net8.0\DesingPatterns.Models.dll
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\bin\Debug\net8.0\DesingPatterns.Models.pdb
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.csproj.AssemblyReference.cache
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.AssemblyInfoInputs.cache
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.AssemblyInfo.cs
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.csproj.CoreCompileInputs.cache
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.dll
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\refint\DesingPatterns.Models.dll
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.pdb
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\DesingPatterns.Models.genruntimeconfig.cache
+C:\Users\AMD RYZEN\source\repos\DesingPatterns.Models\obj\Debug\net8.0\ref\DesingPatterns.Models.dll
